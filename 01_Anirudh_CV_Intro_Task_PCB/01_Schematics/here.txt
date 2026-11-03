@@ -1,1 +1,9 @@
-put your schematics docs in this folder!
+i.    Using 24pc 150141BS73140 WL-SMTW SMT Mono-color TOP LED PLCC4 Common Cathode as BLUE LED's (Luminous Intensity 700mcd - 1000mcd)
+ii.   Using 24pc 150141YS73140 WL-SMTW SMT Mono-color TOP LED PLCC4 Common Cathode as YELLOW LED's (Luminous Intensity 1500mcd - 2000mcd)
+iii.  Forward Voltage for Blue LED is in the range 3.2V - 3.5V
+iv.   Forward Voltage for Yellow LED is in the range 2.4V - 2.8V
+v.    Both LED's have continuous forward current as 50mA and Peak forward current as 100mA
+vi.   I have taken 3313J-1-102E resistor as it was the smallest on PCB footprint and I assume if CCW and WIPER are connected together, according to the datasheet, the CW gives complete resistance
+vii.  100 ohm resistors are used in series connection with the Blue LED's and 220 ohm resistor are used in series connection with the Yellow LED's
+viii. Max current at Blue LED = 48mA and Yellow LED = 43.64mA
+ix.   Max total input power = 4.608W (Blue cascade) and 4.189W (Yellow cascade)

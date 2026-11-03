@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=TP?-1
+Remove Pin from Net: Failed to remove Pin
+Change Component Designator: OldDesignator=T? NewDesignator=T1
+Added Component: Designator=T2(Testpoint_1mm)
+Added Component: Designator=T3(Testpoint_1mm)
+Added Pin To Net: NetName=NetTP?_1 Pin=T2-1
+Added Pin To Net: NetName=GND Pin=T3-1
+Change Net Name : Old Net Name=NetTP?_1 New Net Name=NetT2_1

@@ -1,0 +1,13 @@
+Added Component: Designator=J?(CON-CCC-Cellconnection_Full_EFR15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Elbflorace e.V."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinNumber"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=J?(CON-CCC-Cellconnection_Full_LV_Akku_EFR16)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Elbflorace e.V."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinNumber"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=J?(CON-CCC-Cellconnection_Half_EFR15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Elbflorace e.V."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinNumber"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=MP?(MISC-SCREW-M2.5)

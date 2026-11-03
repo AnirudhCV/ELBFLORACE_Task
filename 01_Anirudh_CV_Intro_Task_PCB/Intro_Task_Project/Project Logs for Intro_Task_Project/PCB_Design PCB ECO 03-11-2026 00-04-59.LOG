@@ -1,0 +1,559 @@
+Change component parameters: Designator = "RY1" ("RY1"); Footprint = "3313J1102E"; UniqueID = "\YQAUBOQO" ("\YQAUBOQO")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/3313J-1-102E.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "2.4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part_Number"; Value = "3313J-1-102E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "144R"; VariantName = "[No Variations]"
+Added Component: Designator=RY2(3313J1102E)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/3313J-1-102E.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Number"; Value = "3313J-1-102E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "144R"; VariantName = "[No Variations]"
+Added Component: Designator=RY3(3313J1102E)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/3313J-1-102E.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Number"; Value = "3313J-1-102E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "144R"; VariantName = "[No Variations]"
+Added Component: Designator=RY4(3313J1102E)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/3313J-1-102E.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Number"; Value = "3313J-1-102E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "144R"; VariantName = "[No Variations]"
+Added Component: Designator=YD7(WL-SMTW_3528_LPCC 4)
+Add component (AddParameter): Name = "Case/Size Code"; Value = "3528"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Signal LEDs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Chip Technology"; Value = "AlInGaP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/150141YS73140?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/150141YS73140?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "590nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitting Color"; Value = "Yellow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2.4V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.85mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "2000mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "150141YS73140"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WL-SMTW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "592nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "120°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "2.8mm"; VariantName = "[No Variations]"
+Added Component: Designator=YD8(WL-SMTW_3528_LPCC 4)
+Add component (AddParameter): Name = "Case/Size Code"; Value = "3528"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Signal LEDs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Chip Technology"; Value = "AlInGaP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/150141YS73140?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/150141YS73140?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "590nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitting Color"; Value = "Yellow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2.4V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.85mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "2000mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "150141YS73140"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WL-SMTW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "592nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "120°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "2.8mm"; VariantName = "[No Variations]"
+Added Component: Designator=YD9(WL-SMTW_3528_LPCC 4)
+Add component (AddParameter): Name = "Case/Size Code"; Value = "3528"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Signal LEDs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Chip Technology"; Value = "AlInGaP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/150141YS73140?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/150141YS73140?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "590nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitting Color"; Value = "Yellow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2.4V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.85mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "2000mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "150141YS73140"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WL-SMTW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "592nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "120°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "2.8mm"; VariantName = "[No Variations]"
+Added Component: Designator=YD10(WL-SMTW_3528_LPCC 4)
+Add component (AddParameter): Name = "Case/Size Code"; Value = "3528"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Signal LEDs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Chip Technology"; Value = "AlInGaP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/150141YS73140?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/150141YS73140?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "590nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitting Color"; Value = "Yellow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2.4V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.85mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "2000mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "150141YS73140"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WL-SMTW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "592nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "120°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "2.8mm"; VariantName = "[No Variations]"
+Added Component: Designator=YD11(WL-SMTW_3528_LPCC 4)
+Add component (AddParameter): Name = "Case/Size Code"; Value = "3528"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Signal LEDs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Chip Technology"; Value = "AlInGaP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/150141YS73140?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/150141YS73140?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "590nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitting Color"; Value = "Yellow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2.4V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.85mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "2000mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "150141YS73140"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WL-SMTW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "592nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "120°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "2.8mm"; VariantName = "[No Variations]"
+Added Component: Designator=YD12(WL-SMTW_3528_LPCC 4)
+Add component (AddParameter): Name = "Case/Size Code"; Value = "3528"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Signal LEDs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Chip Technology"; Value = "AlInGaP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/150141YS73140?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/150141YS73140?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "590nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitting Color"; Value = "Yellow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2.4V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.85mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "2000mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "150141YS73140"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WL-SMTW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "592nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "120°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "2.8mm"; VariantName = "[No Variations]"
+Added Component: Designator=YD13(WL-SMTW_3528_LPCC 4)
+Add component (AddParameter): Name = "Case/Size Code"; Value = "3528"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Signal LEDs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Chip Technology"; Value = "AlInGaP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/150141YS73140?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/150141YS73140?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "590nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitting Color"; Value = "Yellow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2.4V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.85mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "2000mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "150141YS73140"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WL-SMTW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "592nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "120°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "2.8mm"; VariantName = "[No Variations]"
+Added Component: Designator=YD14(WL-SMTW_3528_LPCC 4)
+Add component (AddParameter): Name = "Case/Size Code"; Value = "3528"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Signal LEDs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Chip Technology"; Value = "AlInGaP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/150141YS73140?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/150141YS73140?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "590nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitting Color"; Value = "Yellow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2.4V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.85mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "2000mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "150141YS73140"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WL-SMTW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "592nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "120°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "2.8mm"; VariantName = "[No Variations]"
+Added Component: Designator=YD15(WL-SMTW_3528_LPCC 4)
+Add component (AddParameter): Name = "Case/Size Code"; Value = "3528"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Signal LEDs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Chip Technology"; Value = "AlInGaP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/150141YS73140?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/150141YS73140?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "590nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitting Color"; Value = "Yellow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2.4V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.85mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "2000mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "150141YS73140"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WL-SMTW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "592nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "120°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "2.8mm"; VariantName = "[No Variations]"
+Added Component: Designator=YD16(WL-SMTW_3528_LPCC 4)
+Add component (AddParameter): Name = "Case/Size Code"; Value = "3528"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Signal LEDs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Chip Technology"; Value = "AlInGaP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/150141YS73140?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/150141YS73140?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "590nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitting Color"; Value = "Yellow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2.4V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.85mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "2000mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "150141YS73140"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WL-SMTW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "592nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "120°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "2.8mm"; VariantName = "[No Variations]"
+Added Component: Designator=YD17(WL-SMTW_3528_LPCC 4)
+Add component (AddParameter): Name = "Case/Size Code"; Value = "3528"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Signal LEDs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Chip Technology"; Value = "AlInGaP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/150141YS73140?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/150141YS73140?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "590nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitting Color"; Value = "Yellow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2.4V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.85mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "2000mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "150141YS73140"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WL-SMTW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "592nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "120°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "2.8mm"; VariantName = "[No Variations]"
+Added Component: Designator=YD18(WL-SMTW_3528_LPCC 4)
+Add component (AddParameter): Name = "Case/Size Code"; Value = "3528"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Signal LEDs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Chip Technology"; Value = "AlInGaP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/150141YS73140?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/150141YS73140?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "590nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitting Color"; Value = "Yellow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2.4V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.85mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "2000mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "150141YS73140"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WL-SMTW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "592nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "120°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "2.8mm"; VariantName = "[No Variations]"
+Added Component: Designator=YD19(WL-SMTW_3528_LPCC 4)
+Add component (AddParameter): Name = "Case/Size Code"; Value = "3528"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Signal LEDs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Chip Technology"; Value = "AlInGaP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/150141YS73140?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/150141YS73140?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "590nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitting Color"; Value = "Yellow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2.4V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.85mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "2000mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "150141YS73140"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WL-SMTW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "592nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "120°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "2.8mm"; VariantName = "[No Variations]"
+Added Component: Designator=YD20(WL-SMTW_3528_LPCC 4)
+Add component (AddParameter): Name = "Case/Size Code"; Value = "3528"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Signal LEDs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Chip Technology"; Value = "AlInGaP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/150141YS73140?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/150141YS73140?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "590nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitting Color"; Value = "Yellow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2.4V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.85mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "2000mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "150141YS73140"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WL-SMTW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "592nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "120°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "2.8mm"; VariantName = "[No Variations]"
+Added Component: Designator=YD21(WL-SMTW_3528_LPCC 4)
+Add component (AddParameter): Name = "Case/Size Code"; Value = "3528"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Signal LEDs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Chip Technology"; Value = "AlInGaP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/150141YS73140?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/150141YS73140?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "590nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitting Color"; Value = "Yellow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2.4V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.85mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "2000mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "150141YS73140"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WL-SMTW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "592nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "120°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "2.8mm"; VariantName = "[No Variations]"
+Added Component: Designator=YD22(WL-SMTW_3528_LPCC 4)
+Add component (AddParameter): Name = "Case/Size Code"; Value = "3528"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Signal LEDs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Chip Technology"; Value = "AlInGaP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/150141YS73140?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/150141YS73140?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "590nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitting Color"; Value = "Yellow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2.4V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.85mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "2000mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "150141YS73140"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WL-SMTW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "592nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "120°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "2.8mm"; VariantName = "[No Variations]"
+Added Component: Designator=YD23(WL-SMTW_3528_LPCC 4)
+Add component (AddParameter): Name = "Case/Size Code"; Value = "3528"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Signal LEDs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Chip Technology"; Value = "AlInGaP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/150141YS73140?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/150141YS73140?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "590nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitting Color"; Value = "Yellow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2.4V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.85mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "2000mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "150141YS73140"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WL-SMTW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "592nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "120°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "2.8mm"; VariantName = "[No Variations]"
+Added Component: Designator=YD24(WL-SMTW_3528_LPCC 4)
+Add component (AddParameter): Name = "Case/Size Code"; Value = "3528"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Signal LEDs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Chip Technology"; Value = "AlInGaP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/150141YS73140?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/150141YS73140?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "590nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitting Color"; Value = "Yellow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2.4V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.85mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "2000mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "150141YS73140"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WL-SMTW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "592nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "120°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "2.8mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BLUE_LED_IN Pin=BD7-2
+Added Pin To Net: NetName=BLUE_LED_IN Pin=BD7-4
+Added Pin To Net: NetName=BLUE_LED_IN Pin=BD19-2
+Added Pin To Net: NetName=BLUE_LED_IN Pin=BD19-4
+Added Pin To Net: NetName=GND Pin=RY2-3
+Added Pin To Net: NetName=GND Pin=RY3-3
+Added Pin To Net: NetName=GND Pin=RY4-3
+Added Pin To Net: NetName=YELLOW_LED_IN Pin=YD7-2
+Added Pin To Net: NetName=YELLOW_LED_IN Pin=YD7-3
+Added Pin To Net: NetName=YELLOW_LED_IN Pin=YD7-4
+Added Pin To Net: NetName=YELLOW_LED_IN Pin=YD13-2
+Added Pin To Net: NetName=YELLOW_LED_IN Pin=YD13-3
+Added Pin To Net: NetName=YELLOW_LED_IN Pin=YD13-4
+Added Pin To Net: NetName=YELLOW_LED_IN Pin=YD19-2
+Added Pin To Net: NetName=YELLOW_LED_IN Pin=YD19-3
+Added Pin To Net: NetName=YELLOW_LED_IN Pin=YD19-4
+Added Pin To Net: NetName=NetRY2_1 Pin=RY2-1
+Added Pin To Net: NetName=NetRY2_1 Pin=RY2-2
+Added Pin To Net: NetName=NetRY2_1 Pin=YD12-1
+Added Net: Name=NetRY2_1
+Added Pin To Net: NetName=NetRY3_1 Pin=RY3-1
+Added Pin To Net: NetName=NetRY3_1 Pin=RY3-2
+Added Pin To Net: NetName=NetRY3_1 Pin=YD18-1
+Added Net: Name=NetRY3_1
+Added Pin To Net: NetName=NetRY4_1 Pin=RY4-1
+Added Pin To Net: NetName=NetRY4_1 Pin=RY4-2
+Added Pin To Net: NetName=NetRY4_1 Pin=YD24-1
+Added Net: Name=NetRY4_1
+Added Pin To Net: NetName=NetYD7_1 Pin=YD7-1
+Added Pin To Net: NetName=NetYD7_1 Pin=YD8-2
+Added Pin To Net: NetName=NetYD7_1 Pin=YD8-3
+Added Pin To Net: NetName=NetYD7_1 Pin=YD8-4
+Added Net: Name=NetYD7_1
+Added Pin To Net: NetName=NetYD8_1 Pin=YD8-1
+Added Pin To Net: NetName=NetYD8_1 Pin=YD9-2
+Added Pin To Net: NetName=NetYD8_1 Pin=YD9-3
+Added Pin To Net: NetName=NetYD8_1 Pin=YD9-4
+Added Net: Name=NetYD8_1
+Added Pin To Net: NetName=NetYD9_1 Pin=YD9-1
+Added Pin To Net: NetName=NetYD9_1 Pin=YD10-2
+Added Pin To Net: NetName=NetYD9_1 Pin=YD10-3
+Added Pin To Net: NetName=NetYD9_1 Pin=YD10-4
+Added Net: Name=NetYD9_1
+Added Pin To Net: NetName=NetYD10_1 Pin=YD10-1
+Added Pin To Net: NetName=NetYD10_1 Pin=YD11-2
+Added Pin To Net: NetName=NetYD10_1 Pin=YD11-3
+Added Pin To Net: NetName=NetYD10_1 Pin=YD11-4
+Added Net: Name=NetYD10_1
+Added Pin To Net: NetName=NetYD11_1 Pin=YD11-1
+Added Pin To Net: NetName=NetYD11_1 Pin=YD12-2
+Added Pin To Net: NetName=NetYD11_1 Pin=YD12-3
+Added Pin To Net: NetName=NetYD11_1 Pin=YD12-4
+Added Net: Name=NetYD11_1
+Added Pin To Net: NetName=NetYD13_1 Pin=YD13-1
+Added Pin To Net: NetName=NetYD13_1 Pin=YD14-2
+Added Pin To Net: NetName=NetYD13_1 Pin=YD14-3
+Added Pin To Net: NetName=NetYD13_1 Pin=YD14-4
+Added Net: Name=NetYD13_1
+Added Pin To Net: NetName=NetYD14_1 Pin=YD14-1
+Added Pin To Net: NetName=NetYD14_1 Pin=YD15-2
+Added Pin To Net: NetName=NetYD14_1 Pin=YD15-3
+Added Pin To Net: NetName=NetYD14_1 Pin=YD15-4
+Added Net: Name=NetYD14_1
+Added Pin To Net: NetName=NetYD15_1 Pin=YD15-1
+Added Pin To Net: NetName=NetYD15_1 Pin=YD16-2
+Added Pin To Net: NetName=NetYD15_1 Pin=YD16-3
+Added Pin To Net: NetName=NetYD15_1 Pin=YD16-4
+Added Net: Name=NetYD15_1
+Added Pin To Net: NetName=NetYD16_1 Pin=YD16-1
+Added Pin To Net: NetName=NetYD16_1 Pin=YD17-2
+Added Pin To Net: NetName=NetYD16_1 Pin=YD17-3
+Added Pin To Net: NetName=NetYD16_1 Pin=YD17-4
+Added Net: Name=NetYD16_1
+Added Pin To Net: NetName=NetYD17_1 Pin=YD17-1
+Added Pin To Net: NetName=NetYD17_1 Pin=YD18-2
+Added Pin To Net: NetName=NetYD17_1 Pin=YD18-3
+Added Pin To Net: NetName=NetYD17_1 Pin=YD18-4
+Added Net: Name=NetYD17_1
+Added Pin To Net: NetName=NetYD19_1 Pin=YD19-1
+Added Pin To Net: NetName=NetYD19_1 Pin=YD20-2
+Added Pin To Net: NetName=NetYD19_1 Pin=YD20-3
+Added Pin To Net: NetName=NetYD19_1 Pin=YD20-4
+Added Net: Name=NetYD19_1
+Added Pin To Net: NetName=NetYD20_1 Pin=YD20-1
+Added Pin To Net: NetName=NetYD20_1 Pin=YD21-2
+Added Pin To Net: NetName=NetYD20_1 Pin=YD21-3
+Added Pin To Net: NetName=NetYD20_1 Pin=YD21-4
+Added Net: Name=NetYD20_1
+Added Pin To Net: NetName=NetYD21_1 Pin=YD21-1
+Added Pin To Net: NetName=NetYD21_1 Pin=YD22-2
+Added Pin To Net: NetName=NetYD21_1 Pin=YD22-3
+Added Pin To Net: NetName=NetYD21_1 Pin=YD22-4
+Added Net: Name=NetYD21_1
+Added Pin To Net: NetName=NetYD22_1 Pin=YD22-1
+Added Pin To Net: NetName=NetYD22_1 Pin=YD23-2
+Added Pin To Net: NetName=NetYD22_1 Pin=YD23-3
+Added Pin To Net: NetName=NetYD22_1 Pin=YD23-4
+Added Net: Name=NetYD22_1
+Added Pin To Net: NetName=NetYD23_1 Pin=YD23-1
+Added Pin To Net: NetName=NetYD23_1 Pin=YD24-2
+Added Pin To Net: NetName=NetYD23_1 Pin=YD24-3
+Added Pin To Net: NetName=NetYD23_1 Pin=YD24-4
+Added Net: Name=NetYD23_1

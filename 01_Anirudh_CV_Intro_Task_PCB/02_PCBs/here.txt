@@ -1,1 +1,2 @@
-put your pcb docs in this folder!
+i.     PCB design is in the progress !
+ii.    First layer almost completed, need to check with next layer on how to connect remaining route

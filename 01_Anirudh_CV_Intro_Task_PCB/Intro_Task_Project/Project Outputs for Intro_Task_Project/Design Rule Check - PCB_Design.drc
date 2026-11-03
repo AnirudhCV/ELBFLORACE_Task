@@ -1,0 +1,112 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Anirudh CV\Desktop\ELBFLORACE\ELBFLORACE_Task\01_Anirudh_CV_Intro_Task_PCB\Intro_Task_Project\PCB_Design.PcbDoc
+Date     : 03-11-2026
+Time     : 02:07:46
+
+Processing Rule : Clearance Constraint (Gap=3.15mm) (InNetClass('TS+')),(InNetClass('TS-'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.15mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=20mm) (Disabled)(InNetClass('TS')),(InNetClass('LV'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=4.15mm) (InNetClass('TS')),(InNetClass('LV'))
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net NetBD1_1 Between Pad BD2-4(233.977mm,87.41mm) on Top Layer And Pad BD1-1(241.38mm,88.91mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetBD11_1 Between Pad BD12-2(153.092mm,87.41mm) on Top Layer And Pad BD12-3(153.092mm,88.91mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetBD13_1 Between Pad BD14-3(130.883mm,88.91mm) on Top Layer And Track (131.166mm,87.693mm)(131.166mm,87.76mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetBD18_1 Between Track (91.078mm,89.009mm)(91.315mm,89.009mm) on Top Layer And Pad BD18-1(99.408mm,87.41mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetBD19_1 Between Pad BD20-3(75.811mm,87.41mm) on Top Layer And Pad BD20-4(78.511mm,87.41mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetBD2_1 Between Pad BD3-4(226.574mm,87.41mm) on Top Layer And Pad BD2-1(233.977mm,88.91mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetBD20_1 Between Pad BD21-3(68.407mm,87.41mm) on Top Layer And Pad BD21-2(68.407mm,88.91mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetBD24_1 Between Pad RB4-2(43.868mm,87.757mm) on Top Layer [Unplated] And Pad BD24-1(48.51mm,87.388mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetBD3_1 Between Pad BD4-4(219.171mm,87.41mm) on Top Layer And Pad BD3-1(226.574mm,88.91mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetBD4_1 Between Pad BD5-4(211.767mm,87.41mm) on Top Layer And Pad BD4-1(219.171mm,88.91mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetBD5_1 Between Pad BD6-4(204.364mm,87.41mm) on Top Layer And Pad BD5-1(211.767mm,88.91mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetBD6_1 Between Track (196.566mm,86.734mm)(197.716mm,87.884mm) on Top Layer And Pad BD6-1(204.364mm,88.91mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net BLUE_LED_IN Between Pad BD7-2(189.836mm,88.786mm) on Top Layer And Track (189.92mm,87.49mm)(190.428mm,87.49mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad RY1-3(186.18mm,85.935mm) on Top Layer [Unplated] And Pad RB1-3(194.894mm,88.965mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetRY1_1 Between Pad RY1-2(189.08mm,84.785mm) on Top Layer [Unplated] And Pad YD6-1(204.398mm,85.383mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Track (140.395mm,88.426mm)(140.395mm,88.457mm) on Top Layer And Pad RY1-3(186.18mm,85.935mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetRY2_1 Between Pad RY2-2(136.855mm,84.785mm) on Top Layer [Unplated] And Pad YD12-1(150.386mm,83.845mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Track (96.532mm,85.91mm)(97.813mm,85.91mm) on Top Layer And Pad RY2-3(133.955mm,85.935mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net GND Between Track (40.268mm,88.457mm)(40.718mm,88.907mm) on Top Layer And Pad RY4-3(46.533mm,85.959mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad RY4-3(46.533mm,85.959mm) on Top Layer [Unplated] And Track (91.315mm,86.709mm)(94.139mm,86.709mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net YELLOW_LED_IN Between Pad T2-1(33.858mm,86.233mm) on Top Layer And Pad YD19-4(83.762mm,85.242mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net YELLOW_LED_IN Between Pad YD7-2(199.318mm,83.68mm) on Top Layer And Pad YD1-2(238.676mm,85.395mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net YELLOW_LED_IN Between Pad YD13-2(148.365mm,83.781mm) on Top Layer And Pad YD7-4(196.618mm,85.18mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net YELLOW_LED_IN Between Pad YD19-3(86.462mm,85.242mm) on Top Layer And Pad YD13-4(145.665mm,85.281mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetYD17_1 Between Pad YD18-2(95.461mm,83.73mm) on Top Layer And Pad YD17-1(106.016mm,83.781mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetRY3_1 Between Pad YD18-1(92.761mm,83.73mm) on Top Layer And Track (97.813mm,83.711mm)(99.896mm,83.711mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net YELLOW_LED_IN Between Pad YD19-2(86.462mm,83.742mm) on Top Layer And Pad YD19-3(86.462mm,85.242mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net YELLOW_LED_IN Between Pad YD19-4(83.762mm,85.242mm) on Top Layer And Pad YD19-3(86.462mm,85.242mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetYD21_1 Between Pad YD22-2(64.266mm,83.857mm) on Top Layer And Pad YD21-1(68.424mm,83.832mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetYD22_1 Between Pad YD23-4(56.874mm,83.857mm) on Top Layer And Pad YD22-1(61.566mm,83.857mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetYD23_1 Between Pad YD24-4(39.044mm,83.807mm) on Top Layer And Pad YD23-1(56.874mm,85.357mm) on Top Layer 
+Rule Violations :31
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.15mm) (Max=3mm) (Preferred=0.2mm) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.15mm) (Max=5mm) (Preferred=0.5mm) (InNetClass('Power'))
+Rule Violations :0
+
+Processing Rule : Routing Topology Rule(Topology=Horizontal) (OnLayer('Bottom Layer'))
+Rule Violations :0
+
+Processing Rule : Routing Topology Rule(Topology=Vertical) (OnLayer('Top Layer'))
+Rule Violations :0
+
+Processing Rule : SMD To Corner (Distance=0.1mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.5mm) (Conductor Width=0.25mm) (Air Gap=0.15mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.175mm) (All)
+Rule Violations :0
+
+Processing Rule : Acute Angle Constraint (Minimum=60.000) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.25mm) (Max=5mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.5mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.15mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.1mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (OnLayer('Top Overlay') or OnLayer('Bottom Overlay'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=100mm) (Prefered=15mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 31
+Waived Violations : 0
+Time Elapsed        : 00:00:00

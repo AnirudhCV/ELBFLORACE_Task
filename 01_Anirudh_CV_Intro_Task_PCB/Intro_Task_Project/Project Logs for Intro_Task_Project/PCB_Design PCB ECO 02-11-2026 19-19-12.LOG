@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GND Pin=J1-1
+Removed Pin From Net: NetName=NetBD1_2 Pin=J1-3
+Change Component Footprint: Designator=J1 Old Footprint=CON-03-WE-64900311122 New Footprint=PadCON_10*5
+Change Component Comment : Designator=J1 Old Comment=MPC4 Vert. New Comment=PadCON
+Change Component Kind : Designator=J1 Old Kind=Standard New Kind=Standard (No BOM)
+Change component parameters: Designator = "J1" ("J1"); Footprint = "CON-03-WE-64900311122"; UniqueID = "\WCRMRDGH" ("\WCRMRDGH")
+Change component parameters (AddParameter): Name = "Destination"; Value = "Destination"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "System"; Value = "Connector"; VariantName = "[No Variations]"
+Added Component: Designator=J2(PadCON_10*5)
+Add component (AddParameter): Name = "Destination"; Value = "Destination"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "System"; Value = "Connector"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetBD1_2 Pin=J1-1
+Added Pin To Net: NetName=NetBD1_2 Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=NetYD1_2 Pin=YD1-2
+Added Pin To Net: NetName=NetYD1_2 Pin=YD1-4
+Added Net: Name=NetYD1_2

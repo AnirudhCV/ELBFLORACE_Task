@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=NetBD1_2 Pin=J1-1
+Removed Pin From Net: NetName=NetBD1_2 Pin=J1-1
+Removed Pin From Net: NetName=NetJ2_1 Pin=J2-1
+Removed Pin From Net: NetName=NetJ2_1 Pin=J2-1
+Removed Pin From Net: NetName=GND Pin=J3-1
+Removed Pin From Net: NetName=GND Pin=J3-1
+Added Component: Designator=T?(Testpoint_1mm)
+Added Component: Designator=TP?(MISC-Testpoint-1MM-0.5MM)
+Added Component: Designator=TP?(MISC-Testpoint-c115m80)
+Added Pin To Net: NetName=NetBD1_2 Pin=T?-1
+Added Pin To Net: NetName=GND Pin=TP?-1
+Added Pin To Net: NetName=NetJ2_1 Pin=TP?-1
+Change Net Name : Old Net Name=NetJ2_1 New Net Name=NetTP?_1

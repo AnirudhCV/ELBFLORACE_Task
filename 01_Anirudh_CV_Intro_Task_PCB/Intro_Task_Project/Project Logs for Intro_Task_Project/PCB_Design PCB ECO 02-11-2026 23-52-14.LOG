@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetRY1_1 Pin=YD8-1
+Added Pin To Net: NetName=NetRY1_1 Pin=YD6-1
+Change Net Name : Old Net Name=NetBD1_2 New Net Name=BLUE_LED_IN
+Change Net Name : Old Net Name=NetT2_1 New Net Name=YELLOW_LED_IN

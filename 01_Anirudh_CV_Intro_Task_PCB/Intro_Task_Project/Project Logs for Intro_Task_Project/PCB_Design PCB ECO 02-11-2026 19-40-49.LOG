@@ -1,0 +1,4 @@
+Added Component: Designator=T2(Testpoint_1mm)
+Added Component: Designator=T3(Testpoint_1mm)
+Added Pin To Net: NetName=NetT2_1 Pin=T2-1
+Added Pin To Net: NetName=GND Pin=T3-1

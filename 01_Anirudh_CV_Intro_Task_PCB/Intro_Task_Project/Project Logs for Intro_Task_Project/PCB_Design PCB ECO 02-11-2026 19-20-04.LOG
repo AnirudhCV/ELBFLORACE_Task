@@ -1,0 +1,3 @@
+Added Component: Designator=J?(PADCON_M4)
+Add component (AddParameter): Name = "Destination"; Value = "Destination"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "System"; Value = "Connector"; VariantName = "[No Variations]"
