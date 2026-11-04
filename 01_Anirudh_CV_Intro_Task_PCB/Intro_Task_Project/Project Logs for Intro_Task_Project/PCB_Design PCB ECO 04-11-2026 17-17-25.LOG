@@ -1,0 +1,128 @@
+Removed Pin From Net: NetName=NetBD6_1 Pin=RB1-2
+Removed Pin From Net: NetName=GND Pin=RB1-3
+Removed Pin From Net: NetName=NetBD12_1 Pin=RB2-2
+Removed Pin From Net: NetName=GND Pin=RB2-3
+Removed Pin From Net: NetName=NetBD18_1 Pin=RB3-2
+Removed Pin From Net: NetName=GND Pin=RB3-3
+Removed Pin From Net: NetName=NetBD24_1 Pin=RB4-2
+Removed Pin From Net: NetName=GND Pin=RB4-3
+Removed Pin From Net: NetName=NetRY1_1 Pin=RY1-2
+Removed Pin From Net: NetName=GND Pin=RY1-3
+Removed Pin From Net: NetName=NetRY2_1 Pin=RY2-2
+Removed Pin From Net: NetName=GND Pin=RY2-3
+Removed Pin From Net: NetName=NetRY3_1 Pin=RY3-2
+Removed Pin From Net: NetName=GND Pin=RY3-3
+Removed Pin From Net: NetName=NetRY4_1 Pin=RY4-2
+Removed Pin From Net: NetName=GND Pin=RY4-3
+Change Component Footprint: Designator=RB1 Old Footprint=3313J1102E New Footprint=2010 (5025)
+Change Component Footprint: Designator=RB2 Old Footprint=3313J1102E New Footprint=2010 (5025)
+Change Component Footprint: Designator=RB3 Old Footprint=3313J1102E New Footprint=2010 (5025)
+Change Component Footprint: Designator=RB4 Old Footprint=3313J1102E New Footprint=2010 (5025)
+Change Component Footprint: Designator=RY1 Old Footprint=3313J1102E New Footprint=2010 (5025)
+Change Component Footprint: Designator=RY2 Old Footprint=3313J1102E New Footprint=2010 (5025)
+Change Component Footprint: Designator=RY3 Old Footprint=3313J1102E New Footprint=2010 (5025)
+Change Component Footprint: Designator=RY4 Old Footprint=3313J1102E New Footprint=2010 (5025)
+Change Component Comment : Designator=RB1 Old Comment=3313J-1-102E New Comment=Resistor
+Change Component Comment : Designator=RB2 Old Comment=3313J-1-102E New Comment=Resistor
+Change Component Comment : Designator=RB3 Old Comment=3313J-1-102E New Comment=Resistor
+Change Component Comment : Designator=RB4 Old Comment=3313J-1-102E New Comment=Resistor
+Change Component Comment : Designator=RY1 Old Comment=3313J-1-102E New Comment=Resistor
+Change Component Comment : Designator=RY2 Old Comment=3313J-1-102E New Comment=Resistor
+Change Component Comment : Designator=RY3 Old Comment=3313J-1-102E New Comment=Resistor
+Change Component Comment : Designator=RY4 Old Comment=3313J-1-102E New Comment=Resistor
+Change component parameters: Designator = "RB1" ("RB1"); Footprint = "3313J1102E"; UniqueID = "\PNKEVRIX" ("\PNKEVRIX")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current (A)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (W)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "*%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "#NAME?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage (V)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "RB2" ("RB2"); Footprint = "3313J1102E"; UniqueID = "\DJIROCXG" ("\DJIROCXG")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current (A)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (W)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "*%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "#NAME?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage (V)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "RB3" ("RB3"); Footprint = "3313J1102E"; UniqueID = "\YSHRYNWS" ("\YSHRYNWS")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current (A)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (W)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "*%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "#NAME?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage (V)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "RB4" ("RB4"); Footprint = "3313J1102E"; UniqueID = "\ZYLTJZFE" ("\ZYLTJZFE")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current (A)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (W)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "*%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "#NAME?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage (V)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "RY1" ("RY1"); Footprint = "3313J1102E"; UniqueID = "\MAUTAGCO" ("\MAUTAGCO")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current (A)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (W)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "220R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "*%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "#NAME?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage (V)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "RY2" ("RY2"); Footprint = "3313J1102E"; UniqueID = "\EVUKMQUK" ("\EVUKMQUK")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current (A)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (W)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "220R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "*%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "#NAME?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage (V)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "RY3" ("RY3"); Footprint = "3313J1102E"; UniqueID = "\FLVMRRVY" ("\FLVMRRVY")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current (A)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (W)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "220R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "*%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "#NAME?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage (V)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "RY4" ("RY4"); Footprint = "3313J1102E"; UniqueID = "\HXUVBKGK" ("\HXUVBKGK")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current (A)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (W)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "220R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "*%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "#NAME?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage (V)"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=RB1-2
+Added Pin To Net: NetName=GND Pin=RB2-2
+Added Pin To Net: NetName=GND Pin=RB3-2
+Added Pin To Net: NetName=GND Pin=RB4-2
+Added Pin To Net: NetName=GND Pin=RY1-2
+Added Pin To Net: NetName=GND Pin=RY2-2
+Added Pin To Net: NetName=GND Pin=RY3-2
+Added Pin To Net: NetName=GND Pin=RY4-2

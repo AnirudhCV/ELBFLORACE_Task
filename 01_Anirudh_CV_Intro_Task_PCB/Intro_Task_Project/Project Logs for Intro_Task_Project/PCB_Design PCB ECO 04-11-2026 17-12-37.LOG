@@ -1,0 +1,11 @@
+Added Component: Designator=R?(2010 (5025))
+Add component (AddParameter): Name = "Capacitance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current (A)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (W)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "*R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "*%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "*R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage (V)"; Value = ""; VariantName = "[No Variations]"
